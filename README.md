@@ -76,10 +76,10 @@ rainy,75.0,80.0,false,yes
 
 ## OUTPUT:
 ### Employee Data :
-<img width="1054" height="571" alt="Screenshot 2026-04-17 110645" src="https://github.com/user-attachments/assets/cc86c4ee-6c94-4075-9c3a-abc8377db71e" />
+<img width="754" height="571" alt="Screenshot 2026-04-17 110645" src="https://github.com/user-attachments/assets/cc86c4ee-6c94-4075-9c3a-abc8377db71e" />
 
 ### Weather Data :
-<img width="1083" height="556" alt="Screenshot 2026-04-17 112324" src="https://github.com/user-attachments/assets/0b2eb7a4-9b9c-4965-8bec-47655e723df8" />
+<img width="783" height="556" alt="Screenshot 2026-04-17 112324" src="https://github.com/user-attachments/assets/0b2eb7a4-9b9c-4965-8bec-47655e723df8" />
 
 
 ### 2) Remove -> Pre-Processing Technique:
@@ -98,10 +98,10 @@ rainy,75.0,80.0,false,yes
 
 ## OUTPUT:
 ### Employee Data :
-<img width="1077" height="558" alt="Screenshot 2026-04-17 110737" src="https://github.com/user-attachments/assets/8c1d8586-46c3-492a-8cfd-22a70838a847" />
+<img width="777" height="558" alt="Screenshot 2026-04-17 110737" src="https://github.com/user-attachments/assets/8c1d8586-46c3-492a-8cfd-22a70838a847" />
 
 ### Weather Data :
-<img width="1069" height="542" alt="Screenshot 2026-04-17 112439" src="https://github.com/user-attachments/assets/58b8f591-abc7-4582-a38a-09f5977bb77f" />
+<img width="769" height="542" alt="Screenshot 2026-04-17 112439" src="https://github.com/user-attachments/assets/58b8f591-abc7-4582-a38a-09f5977bb77f" />
 
 
 ### Normalize -> Pre-Processing Technique:
@@ -120,10 +120,10 @@ rainy,75.0,80.0,false,yes
 
 ## OUTPUT:
 ### Employee Data :
-<img width="1071" height="559" alt="Screenshot 2026-04-17 110830" src="https://github.com/user-attachments/assets/f5353f40-b2a1-4be4-8e4e-83fc7db424f3" />
+<img width="771" height="559" alt="Screenshot 2026-04-17 110830" src="https://github.com/user-attachments/assets/f5353f40-b2a1-4be4-8e4e-83fc7db424f3" />
 
 ### Weather Data :
-<img width="1079" height="591" alt="Screenshot 2026-04-17 112529" src="https://github.com/user-attachments/assets/631808c9-bf3b-494c-99e2-4cff925c8880" />
+<img width="779" height="591" alt="Screenshot 2026-04-17 112529" src="https://github.com/user-attachments/assets/631808c9-bf3b-494c-99e2-4cff925c8880" />
 
 ### RESULT: 
   Thus the program for generating employee and weather datasets has been developed, and preprocessing has been accomplished successfully.
